@@ -1,5 +1,4 @@
-// ConsoleApplication3.cpp : Defines the entry point for the console application.
-//
+// Basic template
 
 #include "stdafx.h"
 #include <iostream>
