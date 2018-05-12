@@ -11,6 +11,9 @@
 	Revised April 25, 2010: simple_error() added
 */
 
+// require to use with Visual Studio
+#define _SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS
+
 #ifndef H112
 #define H112 201004L
 
